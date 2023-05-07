@@ -25,7 +25,7 @@ function Home2() {
                     <img src = {selfie} />
                 </div>
                 <div className = "right-text">
-                    <h3 className = "text-underline">Welcome to our website!</h3>
+                    <h3 className = "text-underline">Welcome to our website TEST!</h3>
 
                     <h4>We are a group of Cornell students who love to work with data, and we created this project as members of CDS—Cornell Data Science!</h4>
 
